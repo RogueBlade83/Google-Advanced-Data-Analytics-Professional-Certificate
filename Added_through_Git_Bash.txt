@@ -1,2 +1,3 @@
 I have istalled Git Bash first time and added this file throgh it
 Now I have installed Git Gui
+training to revert
